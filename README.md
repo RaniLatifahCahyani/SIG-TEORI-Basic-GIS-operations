@@ -1,5 +1,5 @@
 # SIG-TEORI-Basic GIS operations
-# Making a Map (QGIS3)
+# Making a Map (QGIS3) (Project 1)
 1.	Unduh dan ekstrak data Natural Earth Quick Start Kit. Buka QGIS. Temukan folder di panel Browser . Luaskan folder untuk menemukan proyek. Ini adalah file proyek yang berisi lapisan bergaya dalam format Dokumen QGIS. Klik dua kali proyek untuk membukanya.Natural Earth quick startNatural_Earth_quick_start_for_QGIS_v3
 2.	Anda mungkin memperhatikan bahwa peta memiliki label dalam bahasa Yunani. Proyek ini menggunakan variabel untuk mengatur bahasa. Kita dapat mengubah variabel dengan masuk ke Project Properties .
 3.	Beralih ke tab Variabel dalam dialog Properti Proyek . Cari project_languagevariabel dan klik pada kolom Nilai untuk mengeditnya. Ubah bahasa menjadi name_endan klik OK .
